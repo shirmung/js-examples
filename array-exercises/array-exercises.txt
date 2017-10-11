@@ -1,0 +1,19 @@
+Your Top Choices
+
+Create an array to hold your top choices (colors, food, whatever).
+For each choice, log to the screen a string like: "My #1 choice is blue.".
+
+Bonus: Change it to log "My 1st choice, "My 2nd choice", "My 3rd choice", picking the right suffix for the number based on what it is.
+
+##########
+
+First and Last
+
+Write a function called first that takes one argument, an array, and returns the first element in that array.
+Write a function called last that takes one argument, an array, and returns the last element in that array.
+
+##########
+
+Longest String
+
+Write a function called longest that takes one argument, an array of strings, and returns the longest string in that array.

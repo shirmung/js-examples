@@ -1,0 +1,27 @@
+What number's bigger?
+
+Write a function named greaterNum that takes 2 arguments, both numbers, and returns whichever number is the greater (higher) number.
+Call that function 2 times with different number pairs and log the output to make sure it works (e.g. "The greater number of 5 and 10 is 10.").
+
+##########
+
+The World Translator
+
+Write a function named helloWorld that takes 1 argument, a language code (e.g. "es", "de", "en"), and returns "Hello, World" for the given language, for at least 3 languages. It should default to returning English.
+Call that function for each of the supported languages and log the result to make sure it works.
+
+##########
+
+The Grade Assigner
+
+Write a function named assignGrade that takes 1 argument, a number score, and returns a grade for the score, either "A", "B", "C", "D", or "F".
+Call that function for a few different scores and log the result to make sure it works.
+
+##########
+
+The Pluralizer
+
+Write a function named pluralize that takes 2 arguments, a noun and a number, and returns the number and pluralized noun, like "5 cats" or "1 dog".
+Call that function for a few different scores and log the result to make sure it works.
+
+Bonus: Make it handle a few collective nouns like "sheep" and "geese".
