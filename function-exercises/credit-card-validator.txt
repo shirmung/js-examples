@@ -18,7 +18,7 @@ a923-3211-9c01-1112 invalid characters
 1111-1111-1111-1110 sum less than 16
 6666-6666-6666-6661 odd final number
 
-Hint: Remove the dashed from the input string before checking if the input credit card number is valid.
+Hint: Remove the dashes from the input string before checking if the input credit card number is valid.
 
 Bonus: Return an object indicating whether the credit card is valid, and if not, what the error is.
 
